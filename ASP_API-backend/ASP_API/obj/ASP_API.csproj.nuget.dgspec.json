@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dawit\\Desktop\\P\\Angular and .net\\Asp.net 6 & Angular 14 ( demo for Jossy )\\Project\\ASP_API-backend\\ASP_API\\ASP_API.csproj": {}
+    "C:\\Users\\Dawit\\Desktop\\P\\Angular and .net\\Asp.net 6 & Angular 14\\Project\\ASP_API-backend\\ASP_API\\ASP_API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dawit\\Desktop\\P\\Angular and .net\\Asp.net 6 & Angular 14 ( demo for Jossy )\\Project\\ASP_API-backend\\ASP_API\\ASP_API.csproj": {
+    "C:\\Users\\Dawit\\Desktop\\P\\Angular and .net\\Asp.net 6 & Angular 14\\Project\\ASP_API-backend\\ASP_API\\ASP_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dawit\\Desktop\\P\\Angular and .net\\Asp.net 6 & Angular 14 ( demo for Jossy )\\Project\\ASP_API-backend\\ASP_API\\ASP_API.csproj",
+        "projectUniqueName": "C:\\Users\\Dawit\\Desktop\\P\\Angular and .net\\Asp.net 6 & Angular 14\\Project\\ASP_API-backend\\ASP_API\\ASP_API.csproj",
         "projectName": "ASP_API",
-        "projectPath": "C:\\Users\\Dawit\\Desktop\\P\\Angular and .net\\Asp.net 6 & Angular 14 ( demo for Jossy )\\Project\\ASP_API-backend\\ASP_API\\ASP_API.csproj",
+        "projectPath": "C:\\Users\\Dawit\\Desktop\\P\\Angular and .net\\Asp.net 6 & Angular 14\\Project\\ASP_API-backend\\ASP_API\\ASP_API.csproj",
         "packagesPath": "C:\\Users\\Dawit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dawit\\Desktop\\P\\Angular and .net\\Asp.net 6 & Angular 14 ( demo for Jossy )\\Project\\ASP_API-backend\\ASP_API\\obj\\",
+        "outputPath": "C:\\Users\\Dawit\\Desktop\\P\\Angular and .net\\Asp.net 6 & Angular 14\\Project\\ASP_API-backend\\ASP_API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dawit\\AppData\\Roaming\\NuGet\\NuGet.Config",
