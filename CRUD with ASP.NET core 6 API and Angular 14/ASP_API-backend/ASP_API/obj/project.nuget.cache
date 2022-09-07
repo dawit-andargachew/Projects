@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "64vM7M3kMtXcdeY9hTTtrccIh0xPSokfl4aXK1lI+esgAqAVPeCzrCwLkRVMaoIpntP53Ei2vhYc1QFKH5Jxtw==",
+  "dgSpecHash": "zNBJK4etg8YY6GHX2VYSmZC2yax1c/lpg3RdpoPF1EVmymJHcWEmVWfvkUxI7eF85yj0/MwEsD480JTV92DZiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dawit\\Desktop\\P\\Angular and .net\\Asp.net 6 & Angular 14\\Project\\ASP_API-backend\\ASP_API\\ASP_API.csproj",
+  "projectFilePath": "C:\\Users\\Dawit\\Desktop\\P\\Angular and .net\\Asp.net 6 & Angular 14\\Project\\CRUD with ASP.NET core 6 API and Angular 14\\ASP_API-backend\\ASP_API\\ASP_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dawit\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Dawit\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -34,7 +34,7 @@
                 <td>{{ person.name | titlecase }}</td>
                 <td>{{ person.father | titlecase }}</td>
                 <td>{{ person.email | lowercase }}</td>
-                <td>{{ person.salary | number }}</td>
+                <td>{{ person.salary | currency:'USD' }}</td>
                 <td>{{ person.sex | titlecase }}</td>
                 <!-- <td> {{ person.password |  }} </td> -->
                 <td> {{ "********"  }} </td>
