@@ -50,7 +50,7 @@ After runnig the above command, you can interact scan with QR code and interact 
 <img src="https://user-images.githubusercontent.com/84455217/221398226-c309d392-b827-4c4d-90b9-db84b716148c.jpg" height=450px >
 <br>
 
-## Login and Sgn up page
+## Login and Sign up page
 
 <img src="https://user-images.githubusercontent.com/84455217/221398242-2f1c7302-c6a6-46b2-9502-a1f3bf6b3433.jpg" height=450px >
 <img src="https://user-images.githubusercontent.com/84455217/221398245-5111804c-4d06-438b-898e-15e273103d3e.jpg" height=450px >
@@ -74,6 +74,8 @@ After runnig the above command, you can interact scan with QR code and interact 
 ## Fitsum Gedefaw          -  UGR/5537/12 <br>
 ## Joseph Birara           -  UGR/5617/12 <br>
 
+  
+<br><br>
 <hr>
 
 ### Thanks !! <hr>
