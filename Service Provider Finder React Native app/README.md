@@ -62,8 +62,7 @@ After runnig the above command, you can interact scan with QR code and interact 
 <img src="https://user-images.githubusercontent.com/84455217/221398542-dade7be8-1df1-43ea-89c7-7456c916cc97.jpg" height=500px >
 <hr>
 
-## Contact service provider 
-### via email or calling
+## Contact service provider, via Email or Direct Calling
 
 <img src="https://user-images.githubusercontent.com/84455217/221398639-04b29034-02b7-4957-abeb-3ab8f199fcbe.jpg" height=500px >
 <hr>
