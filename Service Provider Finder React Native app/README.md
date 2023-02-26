@@ -6,7 +6,7 @@
 ## 🔑 Environment Variables
 ###  To run this app, you will need to configure these things
 
-- #### `utils/auth.json  </a>`  -   holds firebase private key and firebase realtime database link
+- #### `utils/auth.json `  -   holds firebase private key and firebase realtime database link
 - #### `utils.firebase.js ` - holds firebase configuration file
 - #### `utils/http.js ` - holds firebase databse link
 
