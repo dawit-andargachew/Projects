@@ -50,13 +50,13 @@ After runnig the above command, you can interact scan with QR code and interact 
 <img src="https://user-images.githubusercontent.com/84455217/221398226-c309d392-b827-4c4d-90b9-db84b716148c.jpg" height=450px >
 <br>
 
-## login and sign up
+## Login and Sgn up page
 
 <img src="https://user-images.githubusercontent.com/84455217/221398242-2f1c7302-c6a6-46b2-9502-a1f3bf6b3433.jpg" height=450px >
 <img src="https://user-images.githubusercontent.com/84455217/221398245-5111804c-4d06-438b-898e-15e273103d3e.jpg" height=450px >
 <hr>
 
-## Filter by subcity & Service Categories
+## Filter by subcity & Service Categories 
 
 <img src="https://user-images.githubusercontent.com/84455217/221398547-5130d970-6561-4ffb-a6c5-d61253fb327f.jpg" height=450px >
 <img src="https://user-images.githubusercontent.com/84455217/221398542-dade7be8-1df1-43ea-89c7-7456c916cc97.jpg" height=450px >
